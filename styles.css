@@ -1,0 +1,39 @@
+body {
+      text-align: center;
+}
+body{
+     color: brown;
+    }
+body {
+      background: pink;
+}
+h1{
+    font-family: 'Merriweather', serif;
+}
+img{
+    height: 400px;
+}
+
+h2{
+    font-family: 'Merriweather', serif;
+}
+h3{
+    font-family: 'Merriweather', serif;
+}
+h1{
+    text-decoration: underline;
+}
+body{
+     border: solid 10px brown;
+}
+img{
+    border: double 14px  PaleVioletRed;
+}
+body{
+       cursor:cell;
+}
+img:hover {
+    filter: opacity(50%);
+    }
+    
+
